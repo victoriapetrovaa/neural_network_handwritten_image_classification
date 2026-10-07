@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a neural network in Python for **binary classification of handwritten digits**, with the goal of distinguishing handwritten **4s from handwritten 9s**.
+This project implements a neural network in Python for **binary classification of handwritten digits**, with the goal of distinguishing handwritten **4s** from handwritten **9s**.
 
 The project demonstrates the complete workflow of a supervised machine-learning classification problem, including data preparation, neural-network initialization, forward propagation, backpropagation, gradient-based learning, model evaluation, and analysis of classification errors.
 
