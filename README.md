@@ -121,8 +121,8 @@ This corresponds to:
 Correctly classified 4s: 471
 4s classified as 9s:     14
 
-9s classified as 4s:     29
 Correctly classified 9s: 486
+9s classified as 4s:     29
 ```
 
 ---
@@ -149,7 +149,7 @@ Examining individual misclassified images provides a qualitative perspective on 
 
 ## Examples of Misclassified Images
 
-The repository contains examples of images that were incorrectly classified by the neural network.
+The repository contains all examples of images that were incorrectly classified by the neural network. A representative sample is included below.
 
 ### True 4 → Predicted 9
 
